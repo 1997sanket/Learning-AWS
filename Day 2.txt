@@ -18,4 +18,3 @@ Ans: It is kind of similar to Google Drive, but way much powerful
      We can create folders in it, and can even host websites.
      But we can only host static websites, if we want to host dynamic websites, we will
      have to create the website using 'React' technology.
-
