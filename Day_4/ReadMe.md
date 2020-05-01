@@ -1,6 +1,5 @@
 # Using Linux to code and deploy c++ programs in GitHub
 
----
 Hello people, today I'm going to show you how to use a Linux OS to code and deploy C++ on git.
 We are going to use a very basic code, the infamous *Hello, World* code, haha.
 ---
