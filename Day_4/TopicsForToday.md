@@ -1,5 +1,6 @@
 
-How to Link 2 services on AWS
+# How to Link 2 services on AWS
+---
 
 for eg: I want connect my EC2 with my S3.
 By deafault it is not possible, so have to create IAM and lay down some Policies 
@@ -7,6 +8,7 @@ and then we have to attach this IAM to our EC2 and then we can use S3 in EC2.
 
 
 Steps 
+---
 1) Make IAM with certain polices ( uses JSON ), We can also write our own. Policies are nothing but rules defined for EC2 which dictates how much
 control it has over our S3
 
