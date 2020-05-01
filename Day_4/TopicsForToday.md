@@ -13,7 +13,7 @@ Steps
 2. Attach IAM to our EC2, go to instance -> select Actions -> Instance Settings -> attach/replace IAM role
 
 3. To use S3 in our EC2(linux). go to mobaxterm and in our linux EC2 type  **aws s3 ls** to get the folders present in our s3. In short
-   in order to access S3 the syntax is **aws s3 <command>**. 
+   in order to access S3 the syntax is **aws s3 (YourCommand)**. 
 
 
 
