@@ -8,7 +8,7 @@ We are going to use a very basic code, the infamous Hello, World code, haha.
 
 	       1. Any Linux OS, preferablly Ubuntu.
  
-	       2. Make sure you have GitHub installed on your OS. If install using the command **sudo apt install git-all**
+	       2. Make sure you have GitHub installed on your OS. If install using the command *sudo apt install git-all*
 
 	       3. After this, clone your Git repository, just write **git clone <address>**, this address you will get from your GitHub 		  repo.
 
