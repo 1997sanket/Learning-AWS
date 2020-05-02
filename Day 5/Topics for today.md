@@ -5,7 +5,7 @@
 2. Why we use MySql service when we can just download MySql on our EC-2 ?
 3. What is **Lambda function** in AWS.
 ---
-
+ 
 ## In detail
 
 * **How to connect local PC to AWS service**
