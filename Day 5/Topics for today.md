@@ -46,6 +46,3 @@
 2. Here comes *Lambda function*, in this we store our code and AWS will not charge us a single penny. No matter how much amount of
    code we store, lakhs, crores, you name it. AWS will only charge us when we *actually* run the code. The charge is dependent on the
    amount of processor, ram... used for running the code. Just how delightful is this ??  **<3 Thank your AWS <3** .
-
-
-
