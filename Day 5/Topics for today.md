@@ -1,5 +1,4 @@
 # Topics for today
----
 ## Contents 
 ---
 1. How to connect local PC to AWS service.
