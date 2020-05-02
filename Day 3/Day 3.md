@@ -2,7 +2,7 @@
 1. Basic Linux commands
 2. Creating RDBMS on AWS and accessing it using our local PC
 
----
+--- 
 
 * **Basic linux commands**
 
