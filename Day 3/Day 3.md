@@ -1,9 +1,10 @@
-Things covered
-1) Basic Linux commands
-2) Creating RDBMS on AWS and accessing it using our local PC
+# Things covered
+1. Basic Linux commands
+2. Creating RDBMS on AWS and accessing it using our local PC
 
+---
 
-Basic linux commands
+* **Basic linux commands**
 
 ls	--> Lists directories/file in current directory
 cd	--> Change directory
@@ -23,15 +24,15 @@ Relative path is used for making our code more dynamic, for eg in file handling,
 path in our project folder, so that various team members can use the same code, without having the
 need to edit for each memeber as each member can add project folder in different drives (C, D etc)
 
+---
 
-
-
+* **Creating RDBMS on AWS and accessing it using our local PC**
 
 Created MySQl rdbms on AWS and accessed it on local PC
 Added one inbound rule in security for port 3306 keeping source 'Anywhere'
 stopped the service since it could be more costly.
 
 
-Note: When not using stop the services, most importantly before going to sleep.
+**Note** : When not using stop the services, most importantly before going to sleep.
 
 

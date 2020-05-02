@@ -1,10 +1,12 @@
-Topics covered:
-1) Defination and advantages of cloud.
-2) How to create EC2 (elastic cloud compute)/virtual laptop on AWS.
+# Topics covered:
+
+1. Defination and advantages of cloud.
+2. How to create EC2 (elastic cloud compute)/virtual laptop on AWS.
 
 
+---
 
-1) Cloud according to me 
+* **Cloud according to me** 
 
 Cloud in laymans term is pay and go services one gets on rent via internet, which if we go through traditional
 methods would require a large amount of money and management.
@@ -19,3 +21,5 @@ actual data center, managing the data center, electricty, internet, security etc
 Now just how great that is ????? seriously 
 Its heaven for startups. With just few click we are able to use various types of services with
 relatabily very small amount. It's actually win win for both AWS and the user.
+
+
