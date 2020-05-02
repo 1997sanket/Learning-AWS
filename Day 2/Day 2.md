@@ -5,7 +5,7 @@
 3. Creating Storage(S3), also called as Bucket on AWS
 
 ---
-
+ 
 * **Security in AWS**
 
 Ans: It is same a firewall. Contains set of rules that filter traffic coming into and out of EC2 instance.
