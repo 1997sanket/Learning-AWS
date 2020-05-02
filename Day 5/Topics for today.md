@@ -1,5 +1,5 @@
 # Topics for today
----
+
 ## Contents
 1. How to connect local PC to AWS service.
 2. Why we use MySql service when we can just download MySql on our EC-2 ?
@@ -7,7 +7,7 @@
 ---
 
 ## In detail
----
+
 * **How to connect local PC to AWS service**
 1. Download AWS CLI on your local PC.
 2. Open *Windows* cmd promt (not AWS CLI cmd).
