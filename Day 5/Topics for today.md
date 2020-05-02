@@ -1,6 +1,6 @@
 # Topics for today
-
-## Contents ---
+---
+## Contents
 1. How to connect local PC to AWS service.
 2. Why we use MySql service when we can just download MySql on our EC-2 ?
 3. What is **Lambda function** in AWS.
