@@ -2,7 +2,7 @@
 
 1. Defination and advantages of cloud.
 2. How to create EC2 (elastic cloud compute)/virtual laptop on AWS.
-
+ 
  
 ---
 
