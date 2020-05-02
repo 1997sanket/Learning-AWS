@@ -4,7 +4,7 @@ Hello people, today I'm going to show you how to use a Linux OS to code and depl
 We are going to use a very basic code, the infamous Hello, World code, haha.
 
 ---
-## Steps to follow
+## Steps to follow 
 
 	       1. Any Linux OS, preferablly Ubuntu.
  
