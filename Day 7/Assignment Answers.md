@@ -13,4 +13,4 @@ Steps:
 
 Here is the image of proof 
 
-<img src = "images/CPU_utilisation _image_of_proof.png" height=70% width=50%>
+<img src = "images/CPU_utilisation _image_of_proof.png" height=90% width=80%>
