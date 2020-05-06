@@ -11,4 +11,6 @@ Steps:
           Topic      = SNS topic is like a medium between the two.
 
 
-I have upload the G-mail image of the notification, in the same folder where I received when my CPU utilisation was <= 50 percent. 
+Here is the image of proof 
+
+<img src = "images/CPU_utilisation _image_of_proof.png" height=70% width=50%>
