@@ -72,6 +72,10 @@
 
 4. Slack/Telegram has **Web Hooks** through which you can talk to *Lambda*.
 
+5. Below is the explaination shown by Pradeep Sir.
+
+<img src= "images/Day 8 miniproject explained by Sir.png">
+
 
 **SIDE NOTE** 
 
