@@ -1,0 +1,46 @@
+ {
+    "AWSTemplateFormatVersion": "2010-09-09",
+     "Description": "CloudFormation template for creating an ec2 instance",
+    "Parameters": {
+        "KeyName": {
+            "Description": "Key Pair name",
+            "Type": "AWS::EC2::KeyPair::KeyName",
+            "Default": "vita-dbda-20"
+        },
+        "VPC": {
+            "Type": "AWS::EC2::VPC::Id",
+            "Default":"vpc-9b727ee1"
+        },
+        "Subnet":{
+            "Type": "AWS::EC2::Subnet::Id",
+            "Default": "subnet-284db209"
+        },
+        "InstanceType": {
+            "Description": "Select one of the possible instance types",
+            "Type": "String",
+            "Default": "t2.micro",
+            "AllowedValues": ["t2.micro", "t2.small", "t2.medium"]
+        },
+        "SecurityGroup":{
+            "Type": "AWS::EC2::SecurityGroup::Id"
+        } 
+},
+"Resources":{
+    "Server": {
+        "Type": "AWS::EC2::Instance",
+        "Properties": {
+            "ImageId": "ami-0323c3dd2da7fb37d",
+            "InstanceType": {"Ref": "InstanceType"},
+            "KeyName": {"Ref": "KeyName"},
+            "SecurityGroupIds": [{"Ref": "SecurityGroup"}],
+            "SubnetId": {"Ref": "Subnet"}
+        }
+    }
+},
+"Outputs": {
+    "PublicName": {
+        "Value": {"Fn::GetAtt": ["Server", "PublicDnsName"]},
+        "Description": "Public DNS"
+    }   
+}
+}
